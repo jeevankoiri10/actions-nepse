@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.3
+firebase-admin==6.4.0
+requests==2.31.0
+
